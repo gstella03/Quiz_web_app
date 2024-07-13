@@ -1,0 +1,39 @@
+Domanda: In Amazon S3 il prezzo di standard storage é ___ al prezzo di glacier storage
+a) sempre superiore *
+b) in generale non confrontabile
+c) sempre inferiore
+
+Domanda: Utilizzando AWS management console possiamo collegare una funzione F a un APIG ateway
+a) configurando F come un add-on di API Gateway
+b) selezionando F come trigger dell’API Gateway
+c) selezionando l’API Gateway come trigger di F *
+
+Domanda: Il vendor lock-in colpisce meno
+a) Iaas *
+b) Paas
+c) Saas
+
+Domanda: I container ___ delle macchine virtuali
+a) sono più sicuri
+b) sono più lenti ad avviarsi
+c) richiedono meno risorse *
+
+Domanda: Cos'è un'immagine Docker?
+a) Un file *
+b) Un container
+c) Un processo
+
+Domanda: Docker file viene usato per
+a) creare un container
+b) creare un'immagine *
+c) nessuna delle precedenti
+
+Domanda: Amazon VPC cosa permette di fare?
+a) Creare più Computer Virtuali
+b) Avviare risorse AWS in una rete virtuale *
+c) Scegliere un Virtual Processing Cost
+
+Domanda: All'incirca quanto mi costa con Amazon Lambda avere 2.000.000 richieste, il costo ogni milione di richieste è 0.3$, il costo Gb/s 0.001$, ogni funzione pesa 256MB e viene eseguita per 2 secondi senza free tier?
+a) 100
+b) 10
+c) 1000 *

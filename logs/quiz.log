@@ -1,0 +1,61 @@
+13/07/24 17:46:20 - INFO - 127.0.0.1 - - [13/Jul/2024 17:46:20] "GET /?method=quiz.txt&directory=2 HTTP/1.1" 200 -
+13/07/24 17:46:20 - INFO - 127.0.0.1 - - [13/Jul/2024 17:46:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+13/07/24 17:46:20 - INFO - 127.0.0.1 - - [13/Jul/2024 17:46:20] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+13/07/24 17:46:22 - INFO - 127.0.0.1 - - [13/Jul/2024 17:46:22] "GET /?method=quiz.txt&directory=2 HTTP/1.1" 200 -
+13/07/24 17:46:22 - INFO - 127.0.0.1 - - [13/Jul/2024 17:46:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+13/07/24 17:46:22 - INFO - 127.0.0.1 - - [13/Jul/2024 17:46:22] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+13/07/24 17:46:30 - INFO - Quiz loaded successfully from cloud_quiz.txt.
+13/07/24 17:46:30 - INFO - 127.0.0.1 - - [13/Jul/2024 17:46:30] "GET /quiz?filename=cloud_quiz.txt HTTP/1.1" 200 -
+13/07/24 17:46:30 - INFO - Quiz started successfully.
+13/07/24 17:46:30 - INFO - 127.0.0.1 - - [13/Jul/2024 17:46:30] "POST /log HTTP/1.1" 200 -
+13/07/24 17:49:53 - INFO -  * Detected change in '/home/pippo/main/Quiz_web_app/app.py', reloading
+13/07/24 17:49:53 - INFO -  * Restarting with stat
+13/07/24 17:49:53 - WARNING -  * Debugger is active!
+13/07/24 17:49:53 - INFO -  * Debugger PIN: 125-361-835
+13/07/24 17:51:25 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:25] "GET /?method=quiz.txt&directory=2 HTTP/1.1" 200 -
+13/07/24 17:51:25 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+13/07/24 17:51:25 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:25] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+13/07/24 17:51:28 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:28] "GET /?method=quiz.txt&directory=2 HTTP/1.1" 200 -
+13/07/24 17:51:28 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+13/07/24 17:51:28 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:28] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+13/07/24 17:51:46 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:46] "GET /?method=quiz.txt&directory=2 HTTP/1.1" 200 -
+13/07/24 17:51:46 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+13/07/24 17:51:46 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:46] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+13/07/24 17:51:49 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:49] "GET /?method=quiz.txt&directory=2 HTTP/1.1" 200 -
+13/07/24 17:51:49 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+13/07/24 17:51:49 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:49] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+13/07/24 17:51:49 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:49] "GET /?method=quiz.txt&directory=2 HTTP/1.1" 200 -
+13/07/24 17:51:49 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+13/07/24 17:51:49 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:49] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+13/07/24 17:51:50 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:50] "GET /?method=quiz.txt&directory=2 HTTP/1.1" 200 -
+13/07/24 17:51:50 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+13/07/24 17:51:50 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:50] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+13/07/24 17:51:50 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:50] "GET /?method=quiz.txt&directory=2 HTTP/1.1" 200 -
+13/07/24 17:51:50 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+13/07/24 17:51:50 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:50] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+13/07/24 17:51:50 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:50] "GET /?method=quiz.txt&directory=2 HTTP/1.1" 200 -
+13/07/24 17:51:50 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+13/07/24 17:51:50 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:50] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+13/07/24 17:51:50 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:50] "GET /?method=quiz.txt&directory=2 HTTP/1.1" 200 -
+13/07/24 17:51:50 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+13/07/24 17:51:50 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:50] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+13/07/24 17:51:54 - INFO - Quiz loaded successfully from cloud_quiz.txt.
+13/07/24 17:51:54 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:54] "GET /quiz?filename=cloud_quiz.txt HTTP/1.1" 200 -
+13/07/24 17:51:54 - INFO - Quiz started successfully.
+13/07/24 17:51:54 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:54] "POST /log HTTP/1.1" 200 -
+13/07/24 17:51:55 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:55] "GET /?method=quiz.txt&directory=2 HTTP/1.1" 200 -
+13/07/24 17:51:55 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+13/07/24 17:51:55 - INFO - 127.0.0.1 - - [13/Jul/2024 17:51:55] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+13/07/24 17:53:22 - INFO - 127.0.0.1 - - [13/Jul/2024 17:53:22] "GET /?method=quiz.txt&directory=2 HTTP/1.1" 200 -
+13/07/24 17:53:22 - INFO - 127.0.0.1 - - [13/Jul/2024 17:53:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+13/07/24 17:53:22 - INFO - 127.0.0.1 - - [13/Jul/2024 17:53:22] "GET /static/script.js HTTP/1.1" 200 -
+13/07/24 17:53:26 - INFO - 127.0.0.1 - - [13/Jul/2024 17:53:26] "GET /?method=quiz.txt&directory=2 HTTP/1.1" 200 -
+13/07/24 17:53:26 - INFO - 127.0.0.1 - - [13/Jul/2024 17:53:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+13/07/24 17:53:26 - INFO - 127.0.0.1 - - [13/Jul/2024 17:53:26] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+13/07/24 17:56:28 - INFO - 127.0.0.1 - - [13/Jul/2024 17:56:28] "GET /?method=quiz.txt&directory=2 HTTP/1.1" 200 -
+13/07/24 17:56:28 - INFO - 127.0.0.1 - - [13/Jul/2024 17:56:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+13/07/24 17:56:28 - INFO - 127.0.0.1 - - [13/Jul/2024 17:56:28] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+13/07/24 17:56:31 - INFO - Quiz loaded successfully from cloud_quiz.txt.
+13/07/24 17:56:31 - INFO - 127.0.0.1 - - [13/Jul/2024 17:56:31] "GET /quiz?filename=cloud_quiz.txt HTTP/1.1" 200 -
+13/07/24 17:56:31 - INFO - Quiz started successfully.
+13/07/24 17:56:31 - INFO - 127.0.0.1 - - [13/Jul/2024 17:56:31] "POST /log HTTP/1.1" 200 -
